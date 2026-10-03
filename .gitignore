@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Swap and backup files
+*.swp
+*.swo
+*~
+
+# Generated themes or overrides
+lua/theme.lua
+
+# Lazy backup
+lazy-lock.json.bak
